@@ -1,0 +1,14 @@
+C:\Users\autologon\Desktop\aula topicos\exercicioInterface\bin\Debug\net8.0\exercicioInterface.exe
+C:\Users\autologon\Desktop\aula topicos\exercicioInterface\bin\Debug\net8.0\exercicioInterface.deps.json
+C:\Users\autologon\Desktop\aula topicos\exercicioInterface\bin\Debug\net8.0\exercicioInterface.runtimeconfig.json
+C:\Users\autologon\Desktop\aula topicos\exercicioInterface\bin\Debug\net8.0\exercicioInterface.dll
+C:\Users\autologon\Desktop\aula topicos\exercicioInterface\bin\Debug\net8.0\exercicioInterface.pdb
+C:\Users\autologon\Desktop\aula topicos\exercicioInterface\obj\Debug\net8.0\exercicioInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\autologon\Desktop\aula topicos\exercicioInterface\obj\Debug\net8.0\exercicioInterface.AssemblyInfoInputs.cache
+C:\Users\autologon\Desktop\aula topicos\exercicioInterface\obj\Debug\net8.0\exercicioInterface.AssemblyInfo.cs
+C:\Users\autologon\Desktop\aula topicos\exercicioInterface\obj\Debug\net8.0\exercicioInterface.csproj.CoreCompileInputs.cache
+C:\Users\autologon\Desktop\aula topicos\exercicioInterface\obj\Debug\net8.0\exercicioInterface.dll
+C:\Users\autologon\Desktop\aula topicos\exercicioInterface\obj\Debug\net8.0\refint\exercicioInterface.dll
+C:\Users\autologon\Desktop\aula topicos\exercicioInterface\obj\Debug\net8.0\exercicioInterface.pdb
+C:\Users\autologon\Desktop\aula topicos\exercicioInterface\obj\Debug\net8.0\exercicioInterface.genruntimeconfig.cache
+C:\Users\autologon\Desktop\aula topicos\exercicioInterface\obj\Debug\net8.0\ref\exercicioInterface.dll
